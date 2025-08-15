@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://scriptedwebs.in/</loc>
+    <lastmod>2025-08-16</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://scriptedwebs.in/about.html</loc>
+    <lastmod>2025-08-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Services Page -->
+  <url>
+    <loc>https://scriptedwebs.in/services.html</loc>
+    <lastmod>2025-08-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Portfolio Page -->
+  <url>
+    <loc>https://scriptedwebs.in/portfolio.html</loc>
+    <lastmod>2025-08-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://scriptedwebs.in/contact.html</loc>
+    <lastmod>2025-08-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+</urlset>

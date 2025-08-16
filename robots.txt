@@ -1,9 +1,4 @@
 User-agent: *
 Allow: /
 
-# Block admin or unnecessary folders (if any)
-Disallow: /temp/
-Disallow: /private/
-
-# Point search engines to your sitemap
-Sitemap: https://scriptedwebs.in/sitemap.xml
+Sitemap: https://www.scriptedwebs.in/sitemap.xml

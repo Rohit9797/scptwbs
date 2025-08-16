@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
-    <loc>https://scriptedwebs.in/</loc>
+    <loc>https://www.scriptedwebs.in/</loc>
     <lastmod>2025-08-16</lastmod>
     <priority>1.00</priority>
   </url>
 
-  <!-- About Page -->
+  <!-- About Section (single-page site) -->
   <url>
-    <loc>https://scriptedwebs.in/about.html</loc>
+    <loc>https://www.scriptedwebs.in/#about</loc>
     <lastmod>2025-08-16</lastmod>
     <priority>0.80</priority>
   </url>
 
-  <!-- Services Page -->
+  <!-- Services Section -->
   <url>
-    <loc>https://scriptedwebs.in/services.html</loc>
+    <loc>https://www.scriptedwebs.in/#services</loc>
     <lastmod>2025-08-16</lastmod>
     <priority>0.80</priority>
   </url>
 
-  <!-- Portfolio Page -->
+  <!-- Portfolio Section -->
   <url>
-    <loc>https://scriptedwebs.in/portfolio.html</loc>
+    <loc>https://www.scriptedwebs.in/#portfolio</loc>
     <lastmod>2025-08-16</lastmod>
     <priority>0.80</priority>
   </url>
 
-  <!-- Contact Page -->
+  <!-- Contact Section -->
   <url>
-    <loc>https://scriptedwebs.in/contact.html</loc>
+    <loc>https://www.scriptedwebs.in/#contact</loc>
     <lastmod>2025-08-16</lastmod>
     <priority>0.80</priority>
   </url>
